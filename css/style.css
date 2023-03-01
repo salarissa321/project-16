@@ -85,3 +85,88 @@ background: #ffa600;
     margin-left: 70px;
     margin-top: 20px;
 }
+
+.myschreiben{
+    font-family: "Poppins", sans-serif;
+    font-weight: 800;
+    font-size: 40px;
+    line-height: 58px;
+    color: #111116;
+    margin-left: 150px;
+}
+
+.myparagraf{
+    font-family: Rubik;
+    
+    font-size: 19px;
+    line-height: 36px;
+    color: #6F6F76;
+    padding-top: 30px;
+    margin-left: 150px;
+}
+
+.mybutton{
+    font-family: "Rubik", sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+color: #FFFFFF;
+
+background: #ffa600;
+
+box-shadow: 5px 10px 30px rgba(255, 165, 2, 0.3);
+border-radius: 15px;
+padding: 22px 36px;
+margin-left: 150px;
+}
+
+.mybild{
+    margin-right: 20px;
+    padding-bottom: 30px;
+}
+
+.myh2{
+    font-family: "Poppins", sans-serif;
+font-weight: 800;
+font-size: 40px;
+line-height: 58px;
+
+color: #111116;
+}
+
+.myimage{
+    max-width: 100%;
+    height: auto;
+    margin-left: 60px;
+}
+
+.mykuli{
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 1.2;
+    margin-left: 60px;
+
+}
+
+
+.mypro{
+    
+    font-size: 20px;
+    color: #6F6F76;
+    padding-top: 15px;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 60px;
+}
+
+.mylinked{
+    margin-left: 60px;
+    font-family: "Rubik", sans-serif;
+text-decoration: none;
+font-weight: 500;
+font-size: 16px;
+color: #FFA502;
+display: inline-block;
+
+}
