@@ -1,0 +1,87 @@
+
+body{
+    font-weight: 400;
+line-height: 1.6;
+
+font-family: "DM Sans", sans-serif;
+}
+
+
+.mydiv{
+
+}
+
+
+.mycontainer{
+
+}
+
+.mynavbar{
+
+}
+
+.navbar-brand{
+font-size: 30px;
+font-weight: 600;
+color: #FBD97B;
+
+}
+
+.mylink{
+    font-weight: 500;
+    font-size: 18px;
+    margin-left: 50px;
+    color: black;
+    padding-left: 50px;
+}
+
+.mybtn{
+    background: #111116;
+border-radius: 15px;
+font-family: "Rubik", sans-serif;
+font-weight: 500;
+font-size: 16px;
+color: #FFFFFF;
+padding: 19px 31px;
+}
+.mybtn:hover{
+    
+    background-color:#E19201 ;  
+}
+
+.myschrift{
+    font-weight: 800;
+    font-size: 80px;
+    line-height: 90px;
+    color: #111116;
+    font-family: "Poppins", sans-serif;
+    
+    margin-bottom: 0;
+    margin-top: 0;
+}
+.mypara{
+    font-family: "Rubik", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 36px;
+    color: #6F6F76;
+    padding-bottom: 46px;
+}
+
+.mybtn2{
+    border-radius: 15px;
+padding: 22px 36px;
+font-family: "Rubik", sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+color: #FFFFFF;
+display: inline-block;
+background: #ffa600;
+}
+
+.myimg{
+    margin-left: 70px;
+    margin-top: 20px;
+}
